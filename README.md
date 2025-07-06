@@ -62,6 +62,17 @@ Some named queries from the project include:
 
 - Full this link to view all the queries  https://github.com/Monika-mahawar/Google-Play-Store-App-Analysis-Using-SQL/tree/main/google_playstore_analysis/google_playstore_analysis
 
+
+
+
+## 👩‍💻 About Me
+
+Hi! I’m **Monika Mahawar**, a B.Tech student passionate about Data Analysis, SQL, and turning raw datasets into meaningful insights. This project reflects my interest in using SQL to solve real-world business problems through clean, well-structured queries.
+
+📫 **Reach out to me**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/monika-mahawar-561653313)  
+✉️ **Email**: [your-email@example.com](mailto:your-email@mahawarmonika05@gmail.com.com)
+
 ---
 
 
