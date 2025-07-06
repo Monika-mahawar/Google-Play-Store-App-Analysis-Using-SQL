@@ -60,7 +60,7 @@ Some named queries from the project include:
 - `Top_Business_Category_Apps`
 - `Review_to_Install_Ratio`
 
-- Full list of over 30 queries available in `google_playstore_analysis/google_playstore_analysis`
+- Full list of over 30 queries available in `https://github.com/Monika-mahawar/Google-Play-Store-App-Analysis-Using-SQL/tree/7ba041a1535ba6f7e8748ba5366832a31464a844/google_playstore_analysis/google_playstore_analysis`
 
 ---
 
