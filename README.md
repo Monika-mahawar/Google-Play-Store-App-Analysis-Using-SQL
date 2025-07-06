@@ -65,14 +65,13 @@ Some named queries from the project include:
 
 
 
-## 👩‍💻 About Me
+ ## 👩‍💻 About Me
 
-Hi! I’m **Monika Mahawar**, a B.Tech student passionate about Data Analysis, SQL, and turning raw datasets into meaningful insights. This project reflects my interest in using SQL to solve real-world business problems through clean, well-structured queries.
+Hi! I’m **Monika Mahawar**, a B.Tech student passionate about SQL, Data Analysis, and building insightful projects from raw datasets.
 
-📫 **Reach out to me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/monika-mahawar-561653313)  
-✉️ **Email**: [your-email@example.com](mailto:your-email@mahawarmonika05@gmail.com.com)
-
+### 📫 Connect with Me:
+- **LinkedIn**: [Click Here](http://www.linkedin.com/in/monika-mahawar-561653313)
+- **Email**: [Click to Mail](mailto:mahawarmonika05@gmail.com)
 ---
 
 
